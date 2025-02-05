@@ -1,0 +1,82 @@
+[
+  {
+    "id": 101,
+    "name": "Ash Ketchum",
+    "age": 10,
+    "region": "Kanto",
+    "hasChampionTitle": false,
+    "imageUrl": "https://example.com/images/ash.png"
+  },
+  {
+    "id": 102,
+    "name": "Leon",
+    "age": 21,
+    "region": "Galar",
+    "hasChampionTitle": true,
+    "imageUrl": "https://example.com/images/leon.png"
+  },
+  {
+    "id": 103,
+    "name": "Erika",
+    "age": 23,
+    "region": "Kanto",
+    "hasChampionTitle": false,
+    "imageUrl": "https://example.com/images/erika.png"
+  },
+  {
+    "id": 104,
+    "name": "Misty",
+    "age": 12,
+    "region": "Kanto",
+    "hasChampionTitle": false,
+    "imageUrl": "https://example.com/images/misty.png"
+  },
+  {
+    "id": 105,
+    "name": "Whitney",
+    "age": 19,
+    "region": "Johto",
+    "hasChampionTitle": false,
+    "imageUrl": "https://example.com/images/whitney.png"
+  },
+  {
+    "id": 106,
+    "name": "Agatha",
+    "age": 70,
+    "region": "Kanto",
+    "hasChampionTitle": false,
+    "imageUrl": "https://example.com/images/agatha.png"
+  },
+  {
+    "id": 107,
+    "name": "Red",
+    "age": 16,
+    "region": "Kanto",
+    "hasChampionTitle": true,
+    "imageUrl": "https://example.com/images/red.png"
+  },
+  {
+    "id": 108,
+    "name": "Lance",
+    "age": 32,
+    "region": "Johto",
+    "hasChampionTitle": true,
+    "imageUrl": "https://example.com/images/lance.png"
+  },
+  {
+    "id": 109,
+    "name": "Sabrina",
+    "age": 25,
+    "region": "Kanto",
+    "hasChampionTitle": false,
+    "imageUrl": "https://example.com/images/sabrina.png"
+  },
+  {
+    "id": 110,
+    "name": "Giovanni",
+    "age": 55,
+    "region": "Kanto",
+    "hasChampionTitle": false,
+    "imageUrl": "https://example.com/images/giovanni.png"
+  }
+]
