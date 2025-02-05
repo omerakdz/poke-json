@@ -1,0 +1,194 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "Pikachu",
+      "description": "Pikachu is een elektrische muis Pokémon die bekend staat om zijn bliksemaanvallen.",
+      "level": 25,
+      "isActive": true,
+      "birthDate": "1996-02-27",
+      "imageUrl": "https://example.com/images/pikachu.png",
+      "type": "Electric",
+      "abilities": ["Static", "Lightning Rod"],
+      "trainer": {
+        "id": 101,
+        "name": "Ash Ketchum",
+        "age": 10,
+        "region": "Kanto",
+        "hasChampionTitle": false,
+        "imageUrl": "https://example.com/images/ash.png"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Charizard",
+      "description": "Charizard is een vuur- en vliegend-type Pokémon die vuur kan spuwen.",
+      "level": 50,
+      "isActive": true,
+      "birthDate": "1996-02-27",
+      "imageUrl": "https://example.com/images/charizard.png",
+      "type": "Fire",
+      "abilities": ["Blaze", "Solar Power"],
+      "trainer": {
+        "id": 102,
+        "name": "Leon",
+        "age": 21,
+        "region": "Galar",
+        "hasChampionTitle": true,
+        "imageUrl": "https://example.com/images/leon.png"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Bulbasaur",
+      "description": "Bulbasaur is een gras- en gif-type Pokémon met een zaad op zijn rug.",
+      "level": 16,
+      "isActive": true,
+      "birthDate": "1996-02-27",
+      "imageUrl": "https://example.com/images/bulbasaur.png",
+      "type": "Grass",
+      "abilities": ["Overgrow", "Chlorophyll"],
+      "trainer": {
+        "id": 103,
+        "name": "Erika",
+        "age": 23,
+        "region": "Kanto",
+        "hasChampionTitle": false,
+        "imageUrl": "https://example.com/images/erika.png"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Squirtle",
+      "description": "Squirtle is een water-type Pokémon die water kan spuiten uit zijn mond.",
+      "level": 18,
+      "isActive": true,
+      "birthDate": "1996-02-27",
+      "imageUrl": "https://example.com/images/squirtle.png",
+      "type": "Water",
+      "abilities": ["Torrent", "Rain Dish"],
+      "trainer": {
+        "id": 104,
+        "name": "Misty",
+        "age": 12,
+        "region": "Kanto",
+        "hasChampionTitle": false,
+        "imageUrl": "https://example.com/images/misty.png"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Jigglypuff",
+      "description": "Jigglypuff is een normaal- en fee-type Pokémon die vijanden in slaap kan zingen.",
+      "level": 22,
+      "isActive": false,
+      "birthDate": "1996-02-27",
+      "imageUrl": "https://example.com/images/jigglypuff.png",
+      "type": "Normal",
+      "abilities": ["Cute Charm", "Competitive"],
+      "trainer": {
+        "id": 105,
+        "name": "Whitney",
+        "age": 19,
+        "region": "Johto",
+        "hasChampionTitle": false,
+        "imageUrl": "https://example.com/images/whitney.png"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Gengar",
+      "description": "Gengar is een spook- en gif-type Pokémon die zich in schaduwen verbergt.",
+      "level": 45,
+      "isActive": true,
+      "birthDate": "1996-02-27",
+      "imageUrl": "https://example.com/images/gengar.png",
+      "type": "Ghost",
+      "abilities": ["Cursed Body"],
+      "trainer": {
+        "id": 106,
+        "name": "Agatha",
+        "age": 70,
+        "region": "Kanto",
+        "hasChampionTitle": false,
+        "imageUrl": "https://example.com/images/agatha.png"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Snorlax",
+      "description": "Snorlax is een normale Pokémon die bekend staat om zijn slaapgewoonten.",
+      "level": 30,
+      "isActive": false,
+      "birthDate": "1996-02-27",
+      "imageUrl": "https://example.com/images/snorlax.png",
+      "type": "Normal",
+      "abilities": ["Immunity", "Thick Fat"],
+      "trainer": {
+        "id": 107,
+        "name": "Red",
+        "age": 16,
+        "region": "Kanto",
+        "hasChampionTitle": true,
+        "imageUrl": "https://example.com/images/red.png"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Gyarados",
+      "description": "Gyarados is een water- en vliegend-type Pokémon met een destructieve kracht.",
+      "level": 40,
+      "isActive": true,
+      "birthDate": "1996-02-27",
+      "imageUrl": "https://example.com/images/gyarados.png",
+      "type": "Water",
+      "abilities": ["Intimidate", "Moxie"],
+      "trainer": {
+        "id": 108,
+        "name": "Lance",
+        "age": 32,
+        "region": "Johto",
+        "hasChampionTitle": true,
+        "imageUrl": "https://example.com/images/lance.png"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Alakazam",
+      "description": "Alakazam is een psychisch-type Pokémon met een enorm hoge intelligentie.",
+      "level": 42,
+      "isActive": true,
+      "birthDate": "1996-02-27",
+      "imageUrl": "https://example.com/images/alakazam.png",
+      "type": "Psychic",
+      "abilities": ["Synchronize", "Inner Focus"],
+      "trainer": {
+        "id": 109,
+        "name": "Sabrina",
+        "age": 25,
+        "region": "Kanto",
+        "hasChampionTitle": false,
+        "imageUrl": "https://example.com/images/sabrina.png"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Mewtwo",
+      "description": "Mewtwo is een genetisch gemodificeerde Pokémon met krachtige psychische vermogens.",
+      "level": 70,
+      "isActive": true,
+      "birthDate": "1996-02-27",
+      "imageUrl": "https://example.com/images/mewtwo.png",
+      "type": "Psychic",
+      "abilities": ["Pressure", "Unnerve"],
+      "trainer": {
+        "id": 110,
+        "name": "Giovanni",
+        "age": 55,
+        "region": "Kanto",
+        "hasChampionTitle": false,
+        "imageUrl": "https://example.com/images/giovanni.png"
+      }
+    }
+  ]
+}
