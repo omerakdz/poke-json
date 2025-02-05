@@ -7,7 +7,7 @@
       "level": 25,
       "isActive": true,
       "birthDate": "1996-02-27",
-      "imageUrl": "https://example.com/images/pikachu.png",
+      "imageUrl": "https://raw.githubusercontent.com/omerakdz/poke-json/refs/heads/main/Pikachu.jpg",
       "type": "Electric",
       "abilities": ["Static", "Lightning Rod"],
       "trainer": {
@@ -26,7 +26,7 @@
       "level": 50,
       "isActive": true,
       "birthDate": "1996-02-27",
-      "imageUrl": "https://example.com/images/charizard.png",
+      "imageUrl": "https://raw.githubusercontent.com/omerakdz/poke-json/refs/heads/main/Charizard.jpg",
       "type": "Fire",
       "abilities": ["Blaze", "Solar Power"],
       "trainer": {
@@ -45,7 +45,7 @@
       "level": 16,
       "isActive": true,
       "birthDate": "1996-02-27",
-      "imageUrl": "https://example.com/images/bulbasaur.png",
+      "imageUrl": "https://raw.githubusercontent.com/omerakdz/poke-json/refs/heads/main/Bulbasaur.jpg",
       "type": "Grass",
       "abilities": ["Overgrow", "Chlorophyll"],
       "trainer": {
@@ -64,7 +64,7 @@
       "level": 18,
       "isActive": true,
       "birthDate": "1996-02-27",
-      "imageUrl": "https://example.com/images/squirtle.png",
+      "imageUrl": "https://raw.githubusercontent.com/omerakdz/poke-json/refs/heads/main/Squirtle.jpg",
       "type": "Water",
       "abilities": ["Torrent", "Rain Dish"],
       "trainer": {
@@ -83,7 +83,7 @@
       "level": 22,
       "isActive": false,
       "birthDate": "1996-02-27",
-      "imageUrl": "https://example.com/images/jigglypuff.png",
+      "imageUrl": "https://raw.githubusercontent.com/omerakdz/poke-json/refs/heads/main/Jigglypuf.jpg",
       "type": "Normal",
       "abilities": ["Cute Charm", "Competitive"],
       "trainer": {
@@ -102,7 +102,7 @@
       "level": 45,
       "isActive": true,
       "birthDate": "1996-02-27",
-      "imageUrl": "https://example.com/images/gengar.png",
+      "imageUrl": "https://raw.githubusercontent.com/omerakdz/poke-json/refs/heads/main/Gengar.jpg",
       "type": "Ghost",
       "abilities": ["Cursed Body"],
       "trainer": {
@@ -121,7 +121,7 @@
       "level": 30,
       "isActive": false,
       "birthDate": "1996-02-27",
-      "imageUrl": "https://example.com/images/snorlax.png",
+      "imageUrl": "https://raw.githubusercontent.com/omerakdz/poke-json/refs/heads/main/Snorlex.jpg",
       "type": "Normal",
       "abilities": ["Immunity", "Thick Fat"],
       "trainer": {
@@ -140,7 +140,7 @@
       "level": 40,
       "isActive": true,
       "birthDate": "1996-02-27",
-      "imageUrl": "https://example.com/images/gyarados.png",
+      "imageUrl": "https://raw.githubusercontent.com/omerakdz/poke-json/refs/heads/main/Gyarados.jpg",
       "type": "Water",
       "abilities": ["Intimidate", "Moxie"],
       "trainer": {
@@ -159,7 +159,7 @@
       "level": 42,
       "isActive": true,
       "birthDate": "1996-02-27",
-      "imageUrl": "https://example.com/images/alakazam.png",
+      "imageUrl": "https://raw.githubusercontent.com/omerakdz/poke-json/refs/heads/main/Alakazam.jpg",
       "type": "Psychic",
       "abilities": ["Synchronize", "Inner Focus"],
       "trainer": {
@@ -178,7 +178,7 @@
       "level": 70,
       "isActive": true,
       "birthDate": "1996-02-27",
-      "imageUrl": "https://example.com/images/mewtwo.png",
+      "imageUrl": "https://raw.githubusercontent.com/omerakdz/poke-json/refs/heads/main/Mewtwo.jpg",
       "type": "Psychic",
       "abilities": ["Pressure", "Unnerve"],
       "trainer": {
