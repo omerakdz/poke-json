@@ -1,0 +1,14 @@
+{
+  "name": "poke-json",
+  "version": "1.0.0",
+  "description": "Ömer Akdeniz D3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.4"
+  }
+}
